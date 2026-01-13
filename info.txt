@@ -1,0 +1,314 @@
+================================================================================
+Server Connection Information
+================================================================================
+Created Date: 2026-01-13 10:52:50
+Source: server_all_info.xlsx - Remote Connection Tab
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.194
+--------------------------------------------------------------------------------
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071
+
+  [freeship_admini]
+  Username: freeship_admini
+  Password: @admin#db1011
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.195
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#202
+
+  [freeship_admini]
+  Username: freeship_admini
+  Password: @admin#db1011
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.196
+--------------------------------------------------------------------------------
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071
+
+  [freeship_admini]
+  Username: freeship_admini
+  Password: @admin#db1011
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.197
+--------------------------------------------------------------------------------
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#197
+
+  [freeship_admini]
+  Username: freeship_admini
+  Password: @admin#db1011
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.198
+--------------------------------------------------------------------------------
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#198
+
+  [freeship_admini]
+  Username: freeship_admini
+  Password: @admin#db1011
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!198
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.199
+--------------------------------------------------------------------------------
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#199
+
+  [freeship_admini]
+  Username: freeship_admini
+  Password: @admin#db1011
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!198
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.200
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#200
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!200
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.202
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#202
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!202
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.203
+--------------------------------------------------------------------------------
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071
+
+  [freeship_admini]
+  Username: freeship_admini
+  Password: @admin#db1011
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.204
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071#204
+
+  [freeship_admini]
+  Username: freeship_admini
+  Password: @admin#db1011#204
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!204
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.205
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @admin#allin@akzpt
+
+--------------------------------------------------------------------------------
+Server IP: 59.23.231.206
+--------------------------------------------------------------------------------
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#206
+
+  [freeship_admini]
+  Username: freeship_admini
+  Password: @admin#db1011#206
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.66
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#66
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!198
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.67
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#67
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!198
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.68
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071#207
+
+  [freeship_ftp]
+  Username: freeship_ftp
+  Password: @admin#db1011
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.69
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#69
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!69
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.70
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#70
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!202
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.71
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#71
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!71
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.72
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#72
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!72
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.73
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#73
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.74
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [1stplatfor_admini]
+  Username: 1stplatfor_admini
+  Password: @allin#am1071#75
+
+--------------------------------------------------------------------------------
+Server IP: 211.195.9.75
+--------------------------------------------------------------------------------
+
+  [administrator]
+  Username: administrator
+  Password: @allin#am1071
+
+  [folder_ship]
+  Username: folder_ship
+  Password: @1st#ftp!75
+
